@@ -1,4 +1,4 @@
-![image](https://github.com/sprasadhpy/Three_weather_stations_Hidden_Markov_Model/assets/40602129/39d3424e-834c-4587-88ce-a7d199f52ee7)# Weather Station Data Analysis using EM Algorithm
+# Weather Station Data Analysis using EM Algorithm
  Coursework part of the course COMP0080: GRAPHICAL MODELS
 
 You have the data from three weather stations (meteo1.csv) and you don’t know which data sequences come from which one. You believe that the data for each weather station follow a first-order Markov chain.
