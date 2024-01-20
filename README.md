@@ -204,6 +204,10 @@ These probabilities represent the likelihood of observing the first visible stat
 
 These matrices represent the probabilities of transitioning from one visible state to another given the current hidden state. There is a separate matrix for each hidden state. Each row in a matrix corresponds to the probabilities of transitioning from the visible state represented by that row to the visible states represented by the columns, given the current hidden state. Here we observe that there is no distinction between hidden states as all transition probabilities are the same across the hidden states.
 
+![image](https://github.com/sprasadhpy/Three_weather_stations_Hidden_Markov_Model/assets/40602129/28502abd-698e-4e89-b6b5-1d5423c34b08)
+
+
+
 In conclusion, **Initializing the EM algorithm with a uniform distribution makes it seem as though there is essentially only one hidden state.**
 
 
